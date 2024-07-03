@@ -13,7 +13,3 @@ I'm a results-driven and detail-oriented MERN Stack Developer with over 1 year o
 - Email: danieljayasuryae@gmail.com
 
 Feel free to explore my repositories and projects. I'm passionate about leveraging technology to solve real-world problems and always eager to collaborate on exciting ventures!
-
----
-
-This version incorporates your name into the introduction, making it personalized and engaging for visitors to your GitHub profile.
