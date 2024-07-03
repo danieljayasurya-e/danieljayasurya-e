@@ -1,7 +1,3 @@
-Certainly! Here's how you can integrate your name into the profile introduction for your GitHub readme file:
-
----
-
 ## Hi there! 👋 I'm Daniel Jayasurya
 
 I'm a results-driven and detail-oriented MERN Stack Developer with over 1 year of professional experience. My passion lies in designing, building, and configuring robust web-based applications that deliver exceptional user experiences.
